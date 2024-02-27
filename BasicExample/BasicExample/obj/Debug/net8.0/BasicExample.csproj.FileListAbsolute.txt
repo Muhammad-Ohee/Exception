@@ -1,0 +1,15 @@
+C:\Users\Supernova\Documents\CS\Exception\BasicExample\BasicExample\bin\Debug\net8.0\BasicExample.exe
+C:\Users\Supernova\Documents\CS\Exception\BasicExample\BasicExample\bin\Debug\net8.0\BasicExample.deps.json
+C:\Users\Supernova\Documents\CS\Exception\BasicExample\BasicExample\bin\Debug\net8.0\BasicExample.runtimeconfig.json
+C:\Users\Supernova\Documents\CS\Exception\BasicExample\BasicExample\bin\Debug\net8.0\BasicExample.dll
+C:\Users\Supernova\Documents\CS\Exception\BasicExample\BasicExample\bin\Debug\net8.0\BasicExample.pdb
+C:\Users\Supernova\Documents\CS\Exception\BasicExample\BasicExample\obj\Debug\net8.0\BasicExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supernova\Documents\CS\Exception\BasicExample\BasicExample\obj\Debug\net8.0\BasicExample.AssemblyInfoInputs.cache
+C:\Users\Supernova\Documents\CS\Exception\BasicExample\BasicExample\obj\Debug\net8.0\BasicExample.AssemblyInfo.cs
+C:\Users\Supernova\Documents\CS\Exception\BasicExample\BasicExample\obj\Debug\net8.0\BasicExample.csproj.CoreCompileInputs.cache
+C:\Users\Supernova\Documents\CS\Exception\BasicExample\BasicExample\obj\Debug\net8.0\BasicExample.sourcelink.json
+C:\Users\Supernova\Documents\CS\Exception\BasicExample\BasicExample\obj\Debug\net8.0\BasicExample.dll
+C:\Users\Supernova\Documents\CS\Exception\BasicExample\BasicExample\obj\Debug\net8.0\refint\BasicExample.dll
+C:\Users\Supernova\Documents\CS\Exception\BasicExample\BasicExample\obj\Debug\net8.0\BasicExample.pdb
+C:\Users\Supernova\Documents\CS\Exception\BasicExample\BasicExample\obj\Debug\net8.0\BasicExample.genruntimeconfig.cache
+C:\Users\Supernova\Documents\CS\Exception\BasicExample\BasicExample\obj\Debug\net8.0\ref\BasicExample.dll

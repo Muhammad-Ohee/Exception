@@ -1,0 +1,15 @@
+C:\Users\Supernova\Documents\CS\Exception\ExceptionHandlingAbuse\ExceptionHandlingAbuse\bin\Debug\net8.0\ExceptionHandlingAbuse.exe
+C:\Users\Supernova\Documents\CS\Exception\ExceptionHandlingAbuse\ExceptionHandlingAbuse\bin\Debug\net8.0\ExceptionHandlingAbuse.deps.json
+C:\Users\Supernova\Documents\CS\Exception\ExceptionHandlingAbuse\ExceptionHandlingAbuse\bin\Debug\net8.0\ExceptionHandlingAbuse.runtimeconfig.json
+C:\Users\Supernova\Documents\CS\Exception\ExceptionHandlingAbuse\ExceptionHandlingAbuse\bin\Debug\net8.0\ExceptionHandlingAbuse.dll
+C:\Users\Supernova\Documents\CS\Exception\ExceptionHandlingAbuse\ExceptionHandlingAbuse\bin\Debug\net8.0\ExceptionHandlingAbuse.pdb
+C:\Users\Supernova\Documents\CS\Exception\ExceptionHandlingAbuse\ExceptionHandlingAbuse\obj\Debug\net8.0\ExceptionHandlingAbuse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supernova\Documents\CS\Exception\ExceptionHandlingAbuse\ExceptionHandlingAbuse\obj\Debug\net8.0\ExceptionHandlingAbuse.AssemblyInfoInputs.cache
+C:\Users\Supernova\Documents\CS\Exception\ExceptionHandlingAbuse\ExceptionHandlingAbuse\obj\Debug\net8.0\ExceptionHandlingAbuse.AssemblyInfo.cs
+C:\Users\Supernova\Documents\CS\Exception\ExceptionHandlingAbuse\ExceptionHandlingAbuse\obj\Debug\net8.0\ExceptionHandlingAbuse.csproj.CoreCompileInputs.cache
+C:\Users\Supernova\Documents\CS\Exception\ExceptionHandlingAbuse\ExceptionHandlingAbuse\obj\Debug\net8.0\ExceptionHandlingAbuse.sourcelink.json
+C:\Users\Supernova\Documents\CS\Exception\ExceptionHandlingAbuse\ExceptionHandlingAbuse\obj\Debug\net8.0\ExceptionHandlingAbuse.dll
+C:\Users\Supernova\Documents\CS\Exception\ExceptionHandlingAbuse\ExceptionHandlingAbuse\obj\Debug\net8.0\refint\ExceptionHandlingAbuse.dll
+C:\Users\Supernova\Documents\CS\Exception\ExceptionHandlingAbuse\ExceptionHandlingAbuse\obj\Debug\net8.0\ExceptionHandlingAbuse.pdb
+C:\Users\Supernova\Documents\CS\Exception\ExceptionHandlingAbuse\ExceptionHandlingAbuse\obj\Debug\net8.0\ExceptionHandlingAbuse.genruntimeconfig.cache
+C:\Users\Supernova\Documents\CS\Exception\ExceptionHandlingAbuse\ExceptionHandlingAbuse\obj\Debug\net8.0\ref\ExceptionHandlingAbuse.dll

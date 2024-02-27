@@ -1,0 +1,15 @@
+C:\Users\Supernova\Documents\CS\Exception\TheFinallyBlock\TheFinallyBlock\bin\Debug\net8.0\TheFinallyBlock.exe
+C:\Users\Supernova\Documents\CS\Exception\TheFinallyBlock\TheFinallyBlock\bin\Debug\net8.0\TheFinallyBlock.deps.json
+C:\Users\Supernova\Documents\CS\Exception\TheFinallyBlock\TheFinallyBlock\bin\Debug\net8.0\TheFinallyBlock.runtimeconfig.json
+C:\Users\Supernova\Documents\CS\Exception\TheFinallyBlock\TheFinallyBlock\bin\Debug\net8.0\TheFinallyBlock.dll
+C:\Users\Supernova\Documents\CS\Exception\TheFinallyBlock\TheFinallyBlock\bin\Debug\net8.0\TheFinallyBlock.pdb
+C:\Users\Supernova\Documents\CS\Exception\TheFinallyBlock\TheFinallyBlock\obj\Debug\net8.0\TheFinallyBlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supernova\Documents\CS\Exception\TheFinallyBlock\TheFinallyBlock\obj\Debug\net8.0\TheFinallyBlock.AssemblyInfoInputs.cache
+C:\Users\Supernova\Documents\CS\Exception\TheFinallyBlock\TheFinallyBlock\obj\Debug\net8.0\TheFinallyBlock.AssemblyInfo.cs
+C:\Users\Supernova\Documents\CS\Exception\TheFinallyBlock\TheFinallyBlock\obj\Debug\net8.0\TheFinallyBlock.csproj.CoreCompileInputs.cache
+C:\Users\Supernova\Documents\CS\Exception\TheFinallyBlock\TheFinallyBlock\obj\Debug\net8.0\TheFinallyBlock.sourcelink.json
+C:\Users\Supernova\Documents\CS\Exception\TheFinallyBlock\TheFinallyBlock\obj\Debug\net8.0\TheFinallyBlock.dll
+C:\Users\Supernova\Documents\CS\Exception\TheFinallyBlock\TheFinallyBlock\obj\Debug\net8.0\refint\TheFinallyBlock.dll
+C:\Users\Supernova\Documents\CS\Exception\TheFinallyBlock\TheFinallyBlock\obj\Debug\net8.0\TheFinallyBlock.pdb
+C:\Users\Supernova\Documents\CS\Exception\TheFinallyBlock\TheFinallyBlock\obj\Debug\net8.0\TheFinallyBlock.genruntimeconfig.cache
+C:\Users\Supernova\Documents\CS\Exception\TheFinallyBlock\TheFinallyBlock\obj\Debug\net8.0\ref\TheFinallyBlock.dll
